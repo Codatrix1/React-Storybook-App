@@ -1,6 +1,6 @@
 # Project Structure [ Under Development]
 
-[Project URL] (https:// Unavailable)
+[Project URL]
 
 ## Table of Contents
 
