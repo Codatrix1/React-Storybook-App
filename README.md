@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-- Getting Started
 - Storybook
 - Running the project locally
 - Running the tests
