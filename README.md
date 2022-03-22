@@ -1,4 +1,4 @@
-# Project Structure [ Under Development]
+# Project Structure
 
 [Project URL]
 
