@@ -1,6 +1,6 @@
 # Project Structure
 
-[project url]: Unavailable
+[project url]:
 
 ## Table of Contents
 
